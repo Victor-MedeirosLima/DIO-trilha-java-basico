@@ -1,0 +1,1 @@
+Projeto basico de declaração de variaveis, input e outputs na linguagem java
